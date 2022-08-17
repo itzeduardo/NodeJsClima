@@ -8,7 +8,7 @@
     "dev": "nodemon src/app.js -e js,hbs"
   },
   "keywords": [],
-  "author": "EPT",
+  "author": "EPT practica",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4",
